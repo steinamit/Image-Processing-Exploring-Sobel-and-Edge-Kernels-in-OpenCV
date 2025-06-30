@@ -15,5 +15,4 @@ Displaying the result with Matplotlib
 
 The goal is to get a hands-on understanding of how kernels work, without relying on prebuilt models or advanced libraries.
 
-This is a Jupyter notebook provided as part of DL course, intended for running, practicing, and applying the theoretical concepts in a practical way.
-
+This notebook (including the code) was provided as part of a course exercise and used to practice and apply theoretical concepts in a practical way.
